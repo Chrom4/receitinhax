@@ -1,0 +1,14 @@
+.BarraPrimaria {
+    height: 5rem;
+    background-color: #41B06E;
+    align-items: center;
+    display: flex;
+    border-bottom: #141E46 1px solid;
+}
+
+.BarraPrimariaConteudo {
+    padding: 1rem;
+    color: #141E46;
+    font-size: xx-large;
+    border-right: #141E46 1px solid;
+}
