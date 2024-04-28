@@ -7,6 +7,9 @@ function App() {
       <header className={styles.AppHeader}>
         <Barra tipo={"primaria"}/>
       </header>
+      <div className={styles.AppBody}>
+        
+      </div>
     </div>
   );
 }
